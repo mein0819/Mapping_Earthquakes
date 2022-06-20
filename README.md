@@ -18,3 +18,5 @@ The purpose of this project is to create interactive maps showing earthquake geo
 ![satellite](https://github.com/mein0819/Mapping_Earthquakes/blob/main/readMeImages/satellite1.png)
 
 
+![dark](https://github.com/mein0819/Mapping_Earthquakes/blob/main/readMeImages/dark1.png)
+
